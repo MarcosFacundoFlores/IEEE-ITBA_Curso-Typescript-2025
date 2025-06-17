@@ -1,5 +1,5 @@
 # IEEE-ITBA_Curso-Typescript-2025
-Ejercicios resueltos del curso intensivo de Typescript dictado por el IEEE ITBA. 
+Ejercicios resueltos por mi del curso intensivo de Typescript dictado por el IEEE ITBA. 
 
 
 ## Temario
